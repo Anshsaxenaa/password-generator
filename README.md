@@ -36,3 +36,4 @@ This is a simple password generator application built using the Python programmi
 *Feedback*
 
 If you have any feedback, suggestions, or issues related to this password generator application, please open an issue on the GitHub repository.
+This line added in main. 
